@@ -1,4 +1,4 @@
-📌 Movie Review Sentiment Analysis using NLTK and Scikit-learn
+## **📌 Movie Review Sentiment Analysis using NLTK and Scikit-learn**
 This project performs sentiment analysis on the Movie Reviews dataset from the NLTK corpus using four machine learning classifiers:
 
 Naive Bayes (from NLTK)
